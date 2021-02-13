@@ -27,21 +27,3 @@ const styles = StyleSheet.create({
 });
 
 
-// function getDynalistTask(){
-//     console.log('hello')
-//     axios.post('https://dynalist.io/api/v1/doc/read', 
-//        {
-//        token: 'HJFjeUECg4DbuxSRclwYPjVyNpukDcBVfUDUKJTTkvQufgv2aw23pIeiu1klGGZBAi03hKrbUbLOabj3yafVaJzF5Qncgn7fCVXtasTBgTp7wZbnzy4XsDvi0UiZhNr2',
-//        file_id: 'TLDWe8a5xrdvptlhqnkWQMUY'
-//      })
-//      .then((response) => {
-//       // console.log("succes!")
-//       console.log(response.data.title);
-
-//      }, (error) => {
-//       //  console.log(error);
-//       console.log('Failure!')
-//      });
-// } 
-
-// https://dynalist.io/api/v1/file/list
